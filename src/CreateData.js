@@ -1,7 +1,7 @@
 import React,{useState} from "react";
-import "./abc.css";
+import "./CreateData.css";
 
-export  function Abc() {
+export  function CreateData() {
 
   const[data , setData] = useState([]);
 

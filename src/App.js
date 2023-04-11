@@ -1,7 +1,7 @@
 
 import './App.css';
 // import {GetPostDeletePost} from './GetPostDeletePost'
-import{Abc} from './abc'
+import{CreateData} from './abc'
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
       <GetPostDeletePost/>
       </div></> */}
       <div>
-        <Abc/>
+        <CreateData/>
       </div>
       </>
   );
