@@ -1,13 +1,18 @@
 
 import './App.css';
-import {GetPostDeletePost} from './GetPostDeletePost'
+// import {GetPostDeletePost} from './GetPostDeletePost'
+import{Abc} from './abc'
 
 function App() {
   return (
     <>
-    <div>
+    {/* <div>
       <GetPostDeletePost/>
-      </div></>
+      </div></> */}
+      <div>
+        <Abc/>
+      </div>
+      </>
   );
 }
 
